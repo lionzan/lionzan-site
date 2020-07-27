@@ -35,6 +35,47 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+- name: subject
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Sailing
+    - Making
+    - Running
+    - Entrepreneurship
+    - Freedom
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: subject
+  description: The subject of the post among <br>Sailing<br>Making<br>Running<br>Entrepreneurship<br>Freedom
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - " Valuable"
+    - Aspirational
+    - Lifecycle
+    - Unique
+    - Evergreen
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: category
+  description: The category of the post among the following<br>Valuable<br>Aspirational<br>Lifecycle<br>Unique<br>Evergreen
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  description: Tags for the post
 pages:
 - content/posts/clouds-in-layers.md
 - content/posts/i-gaze-at-my-boat.md
