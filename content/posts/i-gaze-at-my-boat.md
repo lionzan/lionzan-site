@@ -1,6 +1,6 @@
 ---
 date: 2020-07-23T20:35:58Z
-hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+hero_image: "/content/images/la-longue-route.jpg"
 title: I Gaze at My Boat
 author: Bernard Moitessier
 
