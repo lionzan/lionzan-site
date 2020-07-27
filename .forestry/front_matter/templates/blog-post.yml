@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - name: author
   type: select
   default: ''
@@ -16,11 +16,11 @@ fields:
       section: author-list
       file: content/data/authors.yaml
       path: authors
-  label: author
+  label: Author
   description: Enter author of post
 - name: date
   type: datetime
-  label: date
+  label: Date
   description: Date post was created
   config:
     required: false
@@ -51,8 +51,8 @@ fields:
       section: 
       file: 
       path: 
-  label: subject
-  description: The subject of the post among <br>Sailing<br>Making<br>Running<br>Entrepreneurship<br>Freedom
+  label: Subject
+  description: For Instagram planning
 - name: category
   type: select
   default: []
@@ -69,12 +69,12 @@ fields:
       section: 
       file: 
       path: 
-  label: category
-  description: The category of the post among the following<br>Valuable<br>Aspirational<br>Lifecycle<br>Unique<br>Evergreen
+  label: Category
+  description: For Instagram planning
 - name: tags
   type: tag_list
   default: []
-  label: tags
+  label: Tags
   description: Tags for the post
 pages:
 - content/posts/clouds-in-layers.md
