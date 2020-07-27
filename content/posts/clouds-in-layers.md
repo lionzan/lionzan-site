@@ -1,8 +1,17 @@
 ---
-date: 2020-07-27T06:17:19Z
+date: 2020-07-27T06:17:19.000+00:00
 hero_image: "/content/images/lowclouds.jpg"
-title: Clouds in layers
+title: Clouds in Layers
 author: Leonardo Zangrando
+subject: Sailing
+category: " Valuable"
+tags:
+- sky
+- clouds
+- weather
+- sailing
+- learn
+- metereology
 
 ---
 Observing the clouds this morning. There are 2 layers of clouds, one very low and moving fast, and another much higher and apparently steady. The apparent speed depends of course on the distance, also the high clouds move, but the tricky question is why two layers?
