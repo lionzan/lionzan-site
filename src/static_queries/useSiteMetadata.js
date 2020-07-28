@@ -8,13 +8,6 @@ export default function useSiteMetadata() {
           title
           description
           repoUrl
-          hero_image {
-            childImageSharp {
-              fluid( maxWidth: 800 ) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
           infoData {
             contact {
               email
