@@ -10,6 +10,7 @@ export default function Blog(props) {
   const data = props.data.markdownRemark
   const allBlogData = useBlogData()
   const nextSlug = getNextSlug(data.fields.slug)
+  const prevSlug = getPrevSlug(data.fields.slug)
 
   function getNextSlug(slug) {
     const allSlugs = allBlogData.map(blog => {
