@@ -11,5 +11,10 @@ fields:
 - type: text
   name: repository_url
   label: repository_url
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: hero_image
 pages:
 - config.json
