@@ -32,7 +32,7 @@ export default function Blog(props) {
     if(prevSlug !== undefined && prevSlug !== '') {
       return prevSlug
     } else {
-      return allSlugs[allSlugs.length]
+      return allSlugs[allSlugs.length()]
     }
   }
 
