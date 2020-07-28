@@ -7,7 +7,6 @@ module.exports = {
     title: config.title,
     description: config.description,
     repoUrl: config.repository_url,
-    hero_image: config.hero_image,
     about: config.about,
     contact: config.contact,
     primaryColor: config.primary_color,
