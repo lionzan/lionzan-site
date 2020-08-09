@@ -8,7 +8,7 @@ export default function useBlogData() {
           node {
             id
             frontmatter {
-              date(formatString: "MMMM Do, YYYY")
+              date
               author
               title
               hero_image {

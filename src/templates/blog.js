@@ -5,6 +5,7 @@ import useBlogData from '../static_queries/useBlogData'
 import blogTemplateStyles from "../styles/templates/blog.module.scss"
 //this component handles the blur img & fade-ins
 import Img from 'gatsby-image'
+import moment from 'moment';
 
 export default function Blog(props) {
   const data = props.data.markdownRemark
@@ -47,7 +48,7 @@ export default function Blog(props) {
         </figure>
         <div className={blogTemplateStyles.blog__info}>
           <h1>{data.frontmatter.title}</h1>
-          <h3>{data.frontmatter.date}</h3>
+          <h3>{moment(data.frontmatter.date).format("DD MMMM YYYY @ HH:mm")}</h3>
         </div>
         <div
           className={blogTemplateStyles.blog__body}
@@ -59,9 +60,6 @@ export default function Blog(props) {
               <path d="M2.687,12.294l8.714-8.715l1.414,1.414l-7.007,7.008H23.021v2h-17.213l7.007,7.006l-1.414,1.414l-8.714-8.713z"/>
             </svg>
           </Link>
-          <h2>
-            Written By: {data.frontmatter.author}
-          </h2>
           <Link to={`/blog/${nextSlug}`} className={blogTemplateStyles.footer__next}>
             <svg xmlns="http://www.w3.org/2000/svg"  version="1.1" x="0px" y="0px" viewBox="0 0 26 26" enableBackground="new 0 0 26 26" >
               <path d="M23.021,12.294l-8.714-8.715l-1.414,1.414l7.007,7.008H2.687v2h17.213l-7.007,7.006l1.414,1.414l8.714-8.713z"/>
@@ -84,7 +82,7 @@ export const getPostData = graphql`
       frontmatter {
         title
         author
-        date(formatString: "MMMM Do, YYYY")
+        date
         hero_image {
           childImageSharp {
             fluid(maxWidth: 1500) {

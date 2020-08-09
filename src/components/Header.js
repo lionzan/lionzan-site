@@ -17,16 +17,16 @@ export default function Header(props) {
           <h1>{props.title}</h1>
         </Link>
         <Link to="https://instagram.com/lionzan">
-          <h2>Instagram</h2>
+          <h3>Instagram</h3>
         </Link>
         <Link to="https://www.youtube.com/channel/UCd56kUli7syXhbDwsETkj4Q">
-          <h2>YouTube</h2>
+          <h3>YouTube</h3>
         </Link>
         <Link to="https://twitter.com/lionzan">
-          <h2>Twitter</h2>
+          <h3>Twitter</h3>
         </Link>
         <div>
-          <h2>
+          <h3>
             <Link
               to={
                 props.page === 'info'
@@ -39,10 +39,10 @@ export default function Header(props) {
                 ? "close"
                 : "info"}
             </Link>
-          </h2>
+          </h3>
         </div>
       </nav>
-        <h3>Leonardo Zangrando</h3>
+        <h2>Leonardo Zangrando</h2>
         <p>{props.description}</p>
     </header>
   )
