@@ -1,9 +1,9 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p><p><img src=\"/content/images/smiling-leo.jpg\"></p>",
+  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p><p></p>",
   "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
+    "email": "me@lionzan.me",
+    "twitter_handle": "lionzan",
     "github_handle": "forestryio",
     "linkedin_link": "https://www.linkedin.com/in/leonardozangrando/",
     "linkedin_handle": "leonardozangrando"
