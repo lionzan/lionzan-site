@@ -1,10 +1,10 @@
 ---
-date: 2020-07-28T06:17:19Z
+date: 2020-07-28T06:17:19.000+00:00
 hero_image: "/content/images/lowclouds.jpg"
 title: Clouds in Layers
 author: Leonardo Zangrando
-subject: Sailing
-category: " Valuable"
+subject: Freedom
+category: Teach
 tags:
 - sky
 - clouds
