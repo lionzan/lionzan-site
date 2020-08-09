@@ -26,20 +26,22 @@ fields:
   name: contact
   label: contact
   fields:
-  - type: text
-    name: email
-    label: email
-  - type: text
-    name: twitter_handle
-    label: twitter_handle
-  - type: text
-    name: github_handle
-    label: github_handle
-  - name: linkedin_handle
+  - name: instagram_handle
     type: text
     config:
       required: false
-    label: LinkedIn handle
+    label: instagram handle
+  - name: youtube_handle
+    type: text
+    config:
+      required: false
+    label: youtube handle
+  - type: text
+    name: twitter_handle
+    label: twitter handle
+  - type: text
+    name: email
+    label: email
 - name: background_color
   type: color
   label: background_color
