@@ -41,11 +41,11 @@ fields:
   config:
     required: false
     options:
-    - Sailing
-    - Making
-    - Running
-    - Entrepreneurship
-    - Freedom
+    - Teach
+    - Inspire
+    - Engage
+    - Desire
+    - Happy
     source:
       type: simple
       section: 
@@ -59,11 +59,10 @@ fields:
   config:
     required: false
     options:
-    - " Valuable"
-    - Aspirational
-    - Lifecycle
-    - Unique
-    - Evergreen
+    - Health
+    - Freedom
+    - Purpose
+    - Creation
     source:
       type: simple
       section: 
