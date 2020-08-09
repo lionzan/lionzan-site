@@ -16,7 +16,6 @@ export default function Header(props) {
         <Link to="/">
           <h1>{props.title}</h1>
         </Link>
-        <p>{props.description}</p>
         <div>
           <h1>
             <Link
@@ -34,6 +33,8 @@ export default function Header(props) {
           </h1>
         </div>
       </nav>
+        <h3>Leonardo Zangrando</h3>
+        <p>{props.description}</p>
     </header>
   )
 }
