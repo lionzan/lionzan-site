@@ -35,7 +35,7 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
-- name: subject
+- name: category
   type: select
   default: []
   config:
@@ -51,9 +51,9 @@ fields:
       section: 
       file: 
       path: 
-  label: Subject
+  label: Category
   description: For Instagram planning
-- name: category
+- name: subject
   type: select
   default: []
   config:
@@ -68,7 +68,7 @@ fields:
       section: 
       file: 
       path: 
-  label: Category
+  label: Subject
   description: For Instagram planning
 - name: tags
   type: tag_list
