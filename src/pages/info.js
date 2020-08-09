@@ -15,7 +15,16 @@ export default function Info() {
         <ul>
           <li>
             <p>
-              <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
+              <a href={`https://instagram.com/${infoData.contact.instagram_handle}`}>
+                Instagram: @{infoData.contact.instagram_handle}
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://youtube.com/channel/${infoData.contact.youtube_handle}`}>
+                YouTube: Leonardo Zangrando | Unfolding Life
+              </a>
             </p>
           </li>
           <li>
@@ -27,7 +36,7 @@ export default function Info() {
           </li>
           <li>
             <p>
-              <a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
+              <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
             </p>
           </li>
         </ul>

@@ -13,6 +13,8 @@ export default function useSiteMetadata() {
               email
               github_handle
               twitter_handle
+              instagram_handle
+              youtube_handle
             }
             cta
             description
