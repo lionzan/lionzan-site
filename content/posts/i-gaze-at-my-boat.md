@@ -3,8 +3,8 @@ date: 2020-07-23T20:35:58.000+00:00
 hero_image: "/content/images/la-longue-route.jpg"
 title: I Gaze at My Boat
 author: Bernard Moitessier
-subject: Sailing
-category: Evergreen
+subject: Freedom
+category: Inspire
 tags:
 - Moitessier
 - sailing
