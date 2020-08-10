@@ -16,15 +16,13 @@ Let’s make stuff! So many things you can make with your hands, or with your br
 
 \#cooking #baking #woodworking #painting but also creating your own business! To get rid of the lashes you’ve accepted for too long. It’s not going to be easy, at times you will feel like a slave to your entrepreneurial journey…
 
-But, wait a minute. If you are pursuing what you really want, what you love, like I am doing now by sharing my stories with you with the hope that they will make a dent in someone’s life and change it for the better… where’s the chains? 
+But, wait a minute. If you are pursuing what you really want, what you love, like I am doing now by sharing my stories with you with the hope that they will make a dent in someone’s life and change it for the better… where’s the chains?
 
 There’s no chains, because you are doing exactly what you want to do!
 
 Let me know what you think in the comments on [instagram](https://instagram.com/lionzan) and let’s have a chat if you want!
 
-Photo credit: Sidney Pearce – Unsplash
-
-\#dowhatyoulovelovewhatyoudo 
+\#dowhatyoulovelovewhatyoudo
 
 \#livingyourbestlife #livinghealthy #livingthelife #livingmylife #livingforlove #lifeonthewater
 
@@ -35,3 +33,5 @@ Photo credit: Sidney Pearce – Unsplash
 \#creativityeveryday #creativityforlife #entrepreneurmind #entrepreneurspirit
 
 \#freedomisfree #freedommachine #freedomfighter #freedomlifestyle
+
+Photo credit: Sidney Pearce – Unsplash
