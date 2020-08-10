@@ -12,19 +12,19 @@ title: Where do You Want to Go?
 author: Leonardo Zangrando
 
 ---
-“What’s my purpose in life?” 
+“What’s my purpose in life?”
 
-Ever asked yourself this question? 
+Ever asked yourself this question?
 
-We all have a True Nature inside us that guides us and gives us a sense of Purpose. 
+We all have a True Nature inside us that guides us and gives us a sense of Purpose.
 
-Unfortunately we learn to hide it when we are young, and for many of us it remains a mystery, hidden by what we THINK we should do in life to calm our fears and to please others. 
+Unfortunately we learn to hide it when we are young, and for many of us it remains a mystery, hidden by what we THINK we should do in life to calm our fears and to please others.
 
-My purpose is exploration and learning, which in turn I want to use for the benefit of people and society. 
+My purpose is exploration and learning, which in turn I want to use for the benefit of people and society.
 
 What’s yours?
 
-Let me know in the comments on [intsagram](https://www.instagram.com/p/CDsw49xBh9S/)!
+Let me know in the comments on [instagram](https://www.instagram.com/p/CDsw49xBh9S/)!
 
 \#dowhatyoulovelovewhatyoudo
 
