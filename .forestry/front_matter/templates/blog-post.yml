@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Tags for the post
 pages:
+- content/posts/alway-cherish-your-love-for-the-ocean.md
 - content/posts/clouds-in-layers.md
 - content/posts/did-you-think-it-was-going-to-be-easy.md
 - content/posts/i-gaze-at-my-boat.md
