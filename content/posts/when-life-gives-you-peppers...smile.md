@@ -10,7 +10,7 @@ author: Leonardo Zangrando
 ---
 What a surprise cutting a pepper in two and finding...Two smiling faces!
 
-The little joys of cooking! And what a chance it was, since normally I cut peppers along the side mot in the middle. But to be honest that was my wife cooking at that time, preparing a succulent plate of peppers filled with rice.
+The little joys of cooking! And what a chance it was, since normally I cut peppers along the side not in the middle. But to be honest that was my wife cooking at that time, preparing a succulent plate of peppers filled with rice.
 
 Buon Appetito!
 
