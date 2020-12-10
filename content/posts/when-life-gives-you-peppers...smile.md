@@ -8,7 +8,7 @@ title: When Life Gives You Peppers... Smile!
 author: Leonardo Zangrando
 
 ---
-What a surprise cutting a pepper in two and finding...Two smiling faces!
+What a surprise cutting a pepper in half and finding...Two smiling faces!
 
 The little joys of cooking! And what a chance it was, since normally I cut peppers along the side not in the middle. But to be honest that was my wife cooking at that time, preparing a succulent plate of peppers filled with rice.
 
