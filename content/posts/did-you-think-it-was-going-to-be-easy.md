@@ -1,6 +1,6 @@
 ---
-date: 2030-08-10T15:50:41Z
-hero_image: "/content/images/20200810dp.jpg"
+date: 2021-05-19T23:00:00Z
+hero_image: "/content/images/jed-villejo-becc0nyip2g-unsplash.jpeg"
 category: ''
 subject: ''
 tags: []
@@ -8,7 +8,7 @@ title: Did You Think It Was Going to Be Easy?
 author: Leonardo Zangrando
 
 ---
-This morning I failed one of my End Results. Not that I will not make it eventually, but I did not listen to it. 
+This morning I failed one of my End Results. Not that I will not make it eventually, but I did not listen to it.
 
 I want to help my son become an accomplished person, using his full potential and fully aware of his power. I try to help him on his way to greatness, and this morning we were supposed to do some exercise, but he was not into it at all (pretty normal for anybody to get pushback from "identity" as you will soon see).
 
@@ -31,3 +31,5 @@ Well, it is what it is. This happens to everybody! The important part is to get 
 \#creativityeveryday #creativityforlife #entrepreneurmind #entrepreneurspirit
 
 \#freedomisfree #freedommachine #freedomfighter #freedomlifestyle
+
+Photo by [Jed Villejo](https://unsplash.com/@jmvillejo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/father-son-running?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
