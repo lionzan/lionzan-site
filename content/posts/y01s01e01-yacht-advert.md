@@ -4,7 +4,7 @@ hero_image: "/content/images/screenshot-2022-02-25-at-14-05-06.png"
 category: ''
 subject: ''
 tags: []
-title: Y01S01E01 – Yacht Advert
+title: 01010101 – Yacht Advert
 author: Leonardo Zangrando
 
 ---
