@@ -1,6 +1,6 @@
 ---
 date: 2022-01-31T22:53:44Z
-hero_image: "/content/images/y01s01e01-apolloduck-adv-contessa-32-for-sale-uk.pdf"
+hero_image: "/content/images/screenshot-2022-02-25-at-14-05-06.png"
 category: ''
 subject: ''
 tags: []
@@ -90,4 +90,4 @@ More pics on request
 * Keel type: Full Keel
 * Fuel capacity: 30 Gallons
 
-![](/content/images/y01s01e04-boat-port.jpeg)
+![](/content/images/y01s01e04-boat-port.jpeg)![](/content/images/screenshot-2022-02-25-at-14-03-55.png)
