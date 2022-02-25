@@ -1,10 +1,10 @@
 ---
-date: 2022-02-25T12:17:23Z
+date: 2022-02-15T20:17:23Z
 hero_image: "/content/images/s1e1-first-query.png"
 category: ''
 subject: ''
 tags: []
-title: S1E1 - First Query
+title: Y01S01E02 - First Query
 author: Leonardo Zangrando
 
 ---
@@ -99,7 +99,9 @@ Leonardo
 
 ![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Tue, 15 Feb, 19:44 (10 days ago) | to me
 
-Hi Leo The boat sold todayHope you find one seen
+Hi Leo The boat sold today
+
+Hope you find one seen
 
 Best wishes vince
 
