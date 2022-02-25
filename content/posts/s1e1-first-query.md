@@ -4,7 +4,7 @@ hero_image: "/content/images/screenshot-2022-02-25-at-14-12-41.png"
 category: ''
 subject: ''
 tags: []
-title: 01010102 - First Query
+title: 01010102 – First Query
 author: Leonardo Zangrando
 
 ---
