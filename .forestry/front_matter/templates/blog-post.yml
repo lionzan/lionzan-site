@@ -76,6 +76,7 @@ fields:
   label: Tags
   description: Tags for the post
 pages:
+- content/posts/01010103-yacht-starboard.md
 - content/posts/alway-cherish-your-love-for-the-ocean.md
 - content/posts/did-you-think-it-was-going-to-be-easy.md
 - content/posts/engineering-from-breadboard-to-nice-object.md
