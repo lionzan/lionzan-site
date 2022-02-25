@@ -1,16 +1,16 @@
 ---
 date: 2022-02-15T20:17:23Z
-hero_image: "/content/images/s1e1-first-query.png"
+hero_image: "/content/images/screenshot-2022-02-25-at-14-12-41.png"
 category: ''
 subject: ''
 tags: []
-title: Y01S01E02 - First Query
+title: 01010102 - First Query
 author: Leonardo Zangrando
 
 ---
 #### Re: Contessa 32 advertised on Apollo Duck UK
 
-![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Tue, 1 Feb, 20:53 | to me 
+![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Tue, 1 Feb, 20:53 | to me
 
 Photos as requested  
 regards Vince
@@ -28,14 +28,14 @@ Hi, is the boat still available? Can you send me some pictures please?
 
 ***
 
-![](https://lh3.googleusercontent.com/a-/AOh14GiAdC_mS2AkMJCOm5s9bm6wQnBz-w0UMj4j_RN_M5U=s40)Leonardo Zangrando | Tue, 1 Feb, 21:15 | to Vinny 
+![](https://lh3.googleusercontent.com/a-/AOh14GiAdC_mS2AkMJCOm5s9bm6wQnBz-w0UMj4j_RN_M5U=s40)Leonardo Zangrando | Tue, 1 Feb, 21:15 | to Vinny
 
 Hi Vince, it seems in good condition indeed! Do you have any info about the hull? Any episodes of osmosis? And what's the state of the engine?Thanks  
 Leonardo
 
 ***
 
-![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Tue, 1 Feb, 21:53 | to me 
+![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Tue, 1 Feb, 21:53 | to me
 
 The boat was last out of the water over a year ago and no sign of osmosis The engine is a Perkins very solid reliable engine and cheap ready available partsIn good condition and working order
 
@@ -43,7 +43,7 @@ Sent from my iPhone![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.
 
 ***
 
-![](https://lh3.googleusercontent.com/a-/AOh14GiAdC_mS2AkMJCOm5s9bm6wQnBz-w0UMj4j_RN_M5U=s40)Leonardo Zangrando | Wed, 2 Feb, 18:08 | to Vinny 
+![](https://lh3.googleusercontent.com/a-/AOh14GiAdC_mS2AkMJCOm5s9bm6wQnBz-w0UMj4j_RN_M5U=s40)Leonardo Zangrando | Wed, 2 Feb, 18:08 | to Vinny
 
 Sounds great. Can I come and see her? Where do you keep her? Any chance to see her out of the water?
 
@@ -52,7 +52,7 @@ Leonardo
 
 ***
 
-![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Wed, 2 Feb, 21:10 | to me 
+![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Wed, 2 Feb, 21:10 | to me
 
 HI Leonardo
 
@@ -60,7 +60,7 @@ the boat is in Grimsby Marina if you use google maps DN31 3SD it is afloat at th
 
 ***
 
-![](https://lh3.googleusercontent.com/a-/AOh14GiAdC_mS2AkMJCOm5s9bm6wQnBz-w0UMj4j_RN_M5U=s40)Leonardo Zangrando | Wed, 2 Feb, 21:57 | to Vinny 
+![](https://lh3.googleusercontent.com/a-/AOh14GiAdC_mS2AkMJCOm5s9bm6wQnBz-w0UMj4j_RN_M5U=s40)Leonardo Zangrando | Wed, 2 Feb, 21:57 | to Vinny
 
 I’m in London. I can travel to see you. When do you think to have her lifted out?
 
@@ -83,7 +83,7 @@ Leonardo
 
 ***
 
-![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Thu, 3 Feb, 12:19 | to me 
+![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)Vinny z | Thu, 3 Feb, 12:19 | to me
 
 No worries
 
@@ -108,3 +108,5 @@ Best wishes vince
 Sent from my iPhone![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
 
 ***
+
+![](/content/images/s1e1-first-query.png)
