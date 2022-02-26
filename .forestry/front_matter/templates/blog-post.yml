@@ -76,10 +76,6 @@ fields:
   label: Tags
   description: Tags for the post
 pages:
-- content/posts/01010103-yacht-starboard.md
-- content/posts/01010104-yacht-port.md
-- content/posts/01010105-cabin.md
-- content/posts/01010106-cabin-starboard.md
 - content/posts/01010107-cabin-galley.md
 - content/posts/01010108-cabin-forepeak.md
 - content/posts/alway-cherish-your-love-for-the-ocean.md
